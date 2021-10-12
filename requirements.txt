@@ -6,7 +6,7 @@ DateTime==4.3
 imutils==0.5.3
 joblib==0.14.1
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pathspec==0.7.0
 Pillow==7.0.0
 pyparsing==2.4.6
